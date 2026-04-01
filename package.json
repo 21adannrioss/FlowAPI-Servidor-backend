@@ -1,0 +1,16 @@
+{
+  "name": "flowapi",
+  "version": "1.0.0",
+  "description": "Servidor backend REST con Node.js puro – Proyecto DAW 2024/25",
+  "main": "server.js",
+  "scripts": {
+  "start": "node src/server.js",
+  "dev": "node --watch src/server.js"
+},
+  "author": "Alejandro Martínez Ruiz",
+  "license": "MIT",
+  "keywords": ["nodejs", "rest", "api", "json", "daw", "backend"],
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
